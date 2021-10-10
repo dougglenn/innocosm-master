@@ -1,5 +1,5 @@
 #### The project is based on Django and we are seeking interested open source python developers familiar with Django. We will also be looking for additional people with some skills like the application UI, writing documentation, javascript, CSS and HTML as the project matures to the point these skills are needed. I want to thank all of you for your curiosity and perhaps gain the desire to become part of the Innocosm community. 
-#### I want to thank all of you who contact me - Doug Glenn : June 16 2021
+#### I want to thank all of you who contacted me - Doug Glenn : June 16 2021
 
 ### Innocosm project
 Innocosm is a web application for Educational and Technology fields using Django 
